@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: Présentation de notre projet.
 categories: [markdown]
 title: An Example Markdown Post
 ---
@@ -44,6 +44,8 @@ différentes raisons:
 Etant tous les 3 fans de jeux vidéos, nous avons donc décider de nous
 orienter vers une dataset qui recense les ventes de jeux vidéos assez
 complÃ¨te pour Ãªtre exploitable.
+
+Globalement, le jeu de données recense les jeux vidéos , leurs genres, plateformes, éditeurs et leurs nombre de ventes en fonction des régions.
 
 **Elaboration de notre problématique :**
 
