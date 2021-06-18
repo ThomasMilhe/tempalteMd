@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Présentation de notre projet.
 categories: [markdown]
-title: An Example Markdown Post
+title: Présentation de notre projet (Milhe Wahbi Bernard)
 ---
 
 ## Comment expliquer le fait qu\'un jeu soit un véritable succès ??
