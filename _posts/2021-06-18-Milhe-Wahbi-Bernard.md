@@ -242,7 +242,7 @@ informations:
     concepteurs de plateformes , il est donc important de faire des
     jeux de qualité et d\'avoir une communauté active.
     
-    ![]({{ site.baseurl }}/images/reviewsplatefome.PNG "fast.ai's logo")
+    ![]({{ site.baseurl }}/images/reviewsplateforme.PNG "fast.ai's logo")
 
 Difficultés rencontrées
 
